@@ -266,6 +266,7 @@ The report includes:
 - Detailed student tables
 - Dynamic DAX ranking
 - Page navigation
+- Bookmark navigation 
 - Student-performance drill-down analysis
 - Last refresh information
 
